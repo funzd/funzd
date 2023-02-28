@@ -1,4 +1,4 @@
-# Funzd (fullstack_developer) ) ![](https://img.shields.io/badge/|-Pro-g.svg)
+# Funzd (fullstack)  ![](https://img.shields.io/badge/|-Pro-g.svg)
 
 ___
 
