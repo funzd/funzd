@@ -5,7 +5,7 @@ ___
 ## Contact
 
 email: [funzdpro1@gmail.com](mailto:funzdpro1@gmail.com?Subject=Contratar%20Servicios)  
-cellphone: [+506 60964430](https://api.whatsapp.com/send?phone=50660964430)
+cellphone: [+506 63129794](https://api.whatsapp.com/send?phone=50663129794)
 
 ___
 
