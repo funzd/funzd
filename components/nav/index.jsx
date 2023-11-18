@@ -1,11 +1,11 @@
-import {links} from './links.jsx'
+import { links } from './links.jsx'
 import Link from 'next/link'
 
-const Nav = () =>(
+const Nav = () => (
   <nav>
     <ul>
       {
-        links.map(({route, label})=>(
+        links.map(({ route, label }) => (
           <li key={route}>
             <Link href={route}>
               {label}

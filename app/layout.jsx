@@ -1,5 +1,6 @@
 import './globals.css'
 import Nav from '../components/nav/index.jsx'
+import 'bootswatch/dist/darkly/bootstrap.min.css'
 
 export default function RootLayout({ children }) {
   return (
@@ -7,11 +8,11 @@ export default function RootLayout({ children }) {
       <head />
       <body>
         <header>
-          <Nav/>
+          <Nav />
         </header>
         <main>
           <section>
-            {children} 
+            {children}
           </section>
           <article>
           </article>
